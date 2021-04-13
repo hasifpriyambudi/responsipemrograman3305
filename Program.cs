@@ -1,13 +1,20 @@
-﻿using System;
+using System;
 
 namespace ResponsiPemrograman3305{
     class Program{
         static void Main(string[] args){
             // Deklarasi Variabel
             Karyawan karyawan = new Karyawan();
-            karyawan.Nik = "123456789";
-            karyawan.Nama = "Sluwu";
-            karyawan.GajiBulanan = 3000000;
+            Console.WriteLine("Masukkan NIK Karyawan");
+            string Nik = Console.ReadLine();
+            karyawan.Nik = Nik;
+            Console.WriteLine("Masukkan Nama Karyawan");
+            string Nama = Console.ReadLine();
+            karyawan.Nama = Nama;
+            Console.WriteLine("Masukkan Gaji Karyawan");
+            int GajiBulanan = int.Parse(Console.ReadLine());
+            karyawan.GajiBulanan = GajiBulanan;
+            
 
             karyawan.infoKaryawan();
             karyawan.naikGaji();
