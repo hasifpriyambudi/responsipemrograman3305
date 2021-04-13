@@ -17,6 +17,7 @@ namespace ResponsiPemrograman3305
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine("");
+            
 
             Console.WriteLine("Alhamdulilah dapat kenaikan gaji 10%");
             int naik = (GajiBulanan/100)*10;
