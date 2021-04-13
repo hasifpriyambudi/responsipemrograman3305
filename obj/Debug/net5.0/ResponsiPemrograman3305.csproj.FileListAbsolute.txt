@@ -1,0 +1,16 @@
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/bin/Debug/net5.0/ResponsiPemrograman3305
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/bin/Debug/net5.0/ResponsiPemrograman3305.deps.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/bin/Debug/net5.0/ResponsiPemrograman3305.runtimeconfig.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/bin/Debug/net5.0/ResponsiPemrograman3305.runtimeconfig.dev.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/bin/Debug/net5.0/ResponsiPemrograman3305.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/bin/Debug/net5.0/ref/ResponsiPemrograman3305.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/bin/Debug/net5.0/ResponsiPemrograman3305.pdb
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/obj/Debug/net5.0/ResponsiPemrograman3305.csprojAssemblyReference.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/obj/Debug/net5.0/ResponsiPemrograman3305.GeneratedMSBuildEditorConfig.editorconfig
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/obj/Debug/net5.0/ResponsiPemrograman3305.AssemblyInfoInputs.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/obj/Debug/net5.0/ResponsiPemrograman3305.AssemblyInfo.cs
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/obj/Debug/net5.0/ResponsiPemrograman3305.csproj.CoreCompileInputs.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/obj/Debug/net5.0/ResponsiPemrograman3305.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/obj/Debug/net5.0/ref/ResponsiPemrograman3305.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/obj/Debug/net5.0/ResponsiPemrograman3305.pdb
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Responsi/ResponsiPemrograman3305/obj/Debug/net5.0/ResponsiPemrograman3305.genruntimeconfig.cache
