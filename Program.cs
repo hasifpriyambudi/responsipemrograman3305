@@ -17,7 +17,6 @@ namespace ResponsiPemrograman3305{
             
 
             karyawan.infoKaryawan();
-            karyawan.naikGaji();
         }
     }
 }
